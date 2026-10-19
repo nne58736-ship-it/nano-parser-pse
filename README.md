@@ -1,2 +1,10 @@
-# nano-parser-pse
-Nano Parser Pse - Handy developer CLI utility engineered by @nne58736-ship-it
+# Nano Parser Pse
+
+A clean CLI tool for quick workflow automation.
+
+Author: [@nne58736-ship-it](https://github.com/nne58736-ship-it)
+
+### Usage
+```bash
+npx nano-parser-pse --help
+```
