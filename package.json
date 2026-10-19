@@ -1,0 +1,12 @@
+{
+  "name": "nano-parser-pse",
+  "version": "1.0.0",
+  "description": "CLI tool by @nne58736-ship-it",
+  "bin": {
+    "nano-parser-pse": "./bin/cli.js"
+  },
+  "type": "module",
+  "author": "nne58736-ship-it",
+  "license": "MIT",
+  "dependencies": {}
+}
